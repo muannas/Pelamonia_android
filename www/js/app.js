@@ -1,6 +1,6 @@
 //Main configuration. Silahkan sesuaikan settingan dibawah ini sesuai. Baca komentar dibelakangnya
 const nama_instansi = 'RS Pelamonia Makassar'; // Hospital Name
-const apiUrl = 'https://36.66.243.186/pasien-rest/'; // API Server URL
+const apiUrl = '36.66.243.186/pasien-rest/'; // API Server URL
 const startDate = -1; // Start date of day for registration
 const endDate = 7; // End date of day for registration
 const debug = 1; // Ganti menjadi 0 sebelum build di phonegap.com
