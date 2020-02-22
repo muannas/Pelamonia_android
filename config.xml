@@ -4,8 +4,8 @@
     <description>
         Aplikasi Pasien Dan Antrian Mandiri RS Pelamonia Makassar.
     </description>
-    <author email="dentix.id@gmail.com" href="https://basoro.github.io">
-        drg. Faisol Basoro
+    <author email="dentix.id@gmail.com" href="https://muannas.github.io">
+        Muannas,S.Kom
     </author>
     <gap:config-file platform="android" parent="/manifest">
       <supports-screens
